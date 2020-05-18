@@ -1,5 +1,5 @@
 {
-  "name": "@antlur/use-v-model",
+  "name": "use-v-model",
   "version": "0.0.1",
   "description": "Like v-model from Vue for React",
   "main": "index.js",
